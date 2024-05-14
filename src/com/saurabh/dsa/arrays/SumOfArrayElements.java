@@ -1,3 +1,5 @@
+package com.saurabh.dsa.arrays;
+
 import java.util.Scanner;
 
 public class SumOfArrayElements {
